@@ -32,6 +32,8 @@
 (ansi-color-for-comint-mode-on)        
 (setq make-backup-files nil)
 
+(setq default-tab-width 4)
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; korean environment
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
